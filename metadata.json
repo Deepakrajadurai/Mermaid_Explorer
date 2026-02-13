@@ -1,0 +1,5 @@
+{
+  "name": "Mermaid Explorer",
+  "description": "A comprehensive interactive gallery and playground for Mermaid.js diagrams, featuring live rendering of flowcharts, sequence diagrams, class diagrams, Gantt charts, and more.",
+  "requestFramePermissions": []
+}
